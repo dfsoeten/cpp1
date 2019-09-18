@@ -1,8 +1,10 @@
 # Week 2
 [Week 2 Assignment](week2.pdf)
 
-[Week 2 Presentation 1](presentation-1.pdf)
-[Week 2 Presentation 2](presentation-2.pdf)
+- [Presentation 1](presentation-1.pdf): Includes, Forward Declaration & Cyclic Dependencies
+- [Presentation 2](presentation-2.pdf): Memory Managment
+- [Presentation 3](presentation-3.pdf)
+- [Presentation 4](presentation-4.pdf)
 
 ## Summary
 1. Linking
