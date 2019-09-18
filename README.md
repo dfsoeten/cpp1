@@ -7,6 +7,7 @@ In learning material provided by Avans, the book [The C++ Programming Language 4
 ## Index
 - [Week 1](week1)
 - [Week 2](week2)
+- [Week 3](week3)
 
 ## Usage Xcode
 1. Open `cpp1.xcodeproj` using Xcode `> 10.3`.

@@ -1,15 +1,13 @@
-//
-//  main.cpp
-//  pointers
-//
-//  Created by Daan Soeten on 18/09/2019.
-//  Copyright © 2019 Daan Soeten. All rights reserved.
-//
-
-#include <iostream>
-
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+int main ()
+{
+    int var1, var2;
+    int *ptr1, *ptr2;
+    ptr1 = &var1;
+    ptr2 = &var2;
+    *ptr1 = 63;
+    *ptr2 = 9;
+    *ptr1 = *ptr2;
+    ptr1 = ptr2;
+    *ptr1 = 78;
     return 0;
 }
