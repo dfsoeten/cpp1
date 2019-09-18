@@ -208,6 +208,9 @@
 		85FA08C523323699005A7713 /* read_int.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = read_int.cpp; sourceTree = "<group>"; };
 		85FA08C623323699005A7713 /* big_uns.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = big_uns.cpp; sourceTree = "<group>"; };
 		85FA08C723323699005A7713 /* read_int.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = read_int.h; sourceTree = "<group>"; };
+		85FA08CC23323762005A7713 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		85FA08CD233237BF005A7713 /* presentation-1.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "presentation-1.pdf"; sourceTree = "<group>"; };
+		85FA08CE233237C0005A7713 /* week4.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = week4.pdf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -322,6 +325,7 @@
 		85E6721C233219A4006796DB = {
 			isa = PBXGroup;
 			children = (
+				85FA08CB23323748005A7713 /* week4 */,
 				85FA085323323017005A7713 /* week3 */,
 				85FA080323321FBC005A7713 /* week2 */,
 				85FA080E23321FD8005A7713 /* week1 */,
@@ -511,6 +515,16 @@
 				85FA085F233230C7005A7713 /* week3 big-uns.zip */,
 			);
 			path = "big-uns";
+			sourceTree = "<group>";
+		};
+		85FA08CB23323748005A7713 /* week4 */ = {
+			isa = PBXGroup;
+			children = (
+				85FA08CD233237BF005A7713 /* presentation-1.pdf */,
+				85FA08CE233237C0005A7713 /* week4.pdf */,
+				85FA08CC23323762005A7713 /* README.md */,
+			);
+			path = week4;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
