@@ -7,3 +7,9 @@ In learning material provided by Avans, the book [The C++ Programming Language 4
 ## Index
 - [Week 1](week1)
 - [Week 2](week2)
+
+## Usage Xcode
+1. Open `cpp1.xcodeproj` using Xcode `> 10.3`.
+2. Use the target switcher to switch between weeks: 
+![target switching](target-switching.png)
+
