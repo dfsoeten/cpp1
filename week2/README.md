@@ -10,3 +10,7 @@
 3. Source Files (`.cpp`)
 4. Stack
 5. Heap
+
+## Resources
+- [How the C++ Compiler Works (YouTube)](https://www.youtube.com/watch?v=3tIqpEmWMLI)
+- [How the C++ Linker Works (YouTube)](https://www.youtube.com/watch?v=H4s55GgAg0I)
