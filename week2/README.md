@@ -3,8 +3,8 @@
 
 - [Presentation 1](presentation-1.pdf): Includes, Forward Declaration & Cyclic Dependencies
 - [Presentation 2](presentation-2.pdf): Memory Managment
-- [Presentation 3](presentation-3.pdf)
-- [Presentation 4](presentation-4.pdf)
+- [Presentation 3](presentation-3.pdf): Const
+- [Presentation 4](presentation-4.pdf): Constructors, Destructors, RAII & Inheritance
 
 ## Summary
 1. Linking
